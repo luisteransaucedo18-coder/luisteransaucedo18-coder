@@ -2,12 +2,6 @@
 
   <h1> Hi, I'm Luis Terán Saucedo <a href="https://github.com/luisteransaucedo18-coder"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></a></h1>
 
-  <h3>QA Engineer & Full Stack Developer</h3>
-
-  <p align="center">
-    <b>Systems Engineering Student (9th Semester • Top 33%)</b> at Universidad Tecnológica del Perú
-  </p>
-
   <!-- Badges de Estado -->
   <p align="center">
     <a href="https://linkedin.com/in/teran-saucedo-luis-armando-91933136b">
