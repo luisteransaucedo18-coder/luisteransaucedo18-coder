@@ -2,7 +2,7 @@
 
   <h1> Hi, I'm Luis Terán Saucedo <a href="https://github.com/luisteransaucedo18-coder"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></a></h1>
     <div align="center">
-      <img src="[https://github.com/user-attachments/assets/TU_LINK_AQUI](https://github.com/luisteransaucedo18-coder/luisteransaucedo18-coder/blob/main/Gemini_Generated_Image_xn5nf1xn5nf1xn5n.jpg?raw=true)" alt="Banner Luis Terán" width="100%" />
+      <img src="https://github.com/luisteransaucedo18-coder/luisteransaucedo18-coder/blob/e96822b56ef63c8d4d4b9d6b7fd84aac851193ab/Gemini_Generated_Image_xn5nf1xn5nf1xn5n.jpg" alt="Banner Luis Terán" width="100%" />
     </div>
   <!-- Badges de Estado -->
   <p align="center">
