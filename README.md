@@ -1,7 +1,9 @@
 <div align="center">
 
   <h1> Hi, I'm Luis Terán Saucedo <a href="https://github.com/luisteransaucedo18-coder"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></a></h1>
-
+    <div align="center">
+      <img src="[https://github.com/user-attachments/assets/TU_LINK_AQUI](https://github.com/luisteransaucedo18-coder/luisteransaucedo18-coder/blob/main/Gemini_Generated_Image_xn5nf1xn5nf1xn5n.jpg?raw=true)" alt="Banner Luis Terán" width="100%" />
+    </div>
   <!-- Badges de Estado -->
   <p align="center">
     <a href="https://linkedin.com/in/teran-saucedo-luis-armando-91933136b">
