@@ -64,24 +64,6 @@ Mi experiencia abarca desarrollo frontend y backend, pruebas funcionales, valida
 </tr>
 </table>
 
-## Otros proyectos
-
-| Proyecto | Qué encontrarás | Tecnologías |
-| :--- | :--- | :--- |
-| **[Portafolio personal](https://github.com/luisteransaucedo18-coder/portafolioluisteran)** | Presentación de experiencia, formación y proyectos; componentes reutilizables y comportamiento de aparición al recorrer la página. | React, JavaScript, Vite, CSS |
-| **[Sitio institucional escolar](https://github.com/luisteransaucedo18-coder/colegio-liceo-trujillo)** | Sitio informativo y prototipo de formulario de matrícula con validación en el navegador y envío simulado. | HTML, CSS, JavaScript |
-| **[Recomendador con MySQL](https://github.com/luisteransaucedo18-coder/recomendationgames)** | Otra versión del recomendador, con persistencia en MySQL y separación entre controlador, datos, procesamiento e inferencia. | Python, Flask, MySQL, pyDatalog |
-
-<details>
-<summary><strong>Repositorios derivados · Java y desarrollo móvil</strong></summary>
-
-Estos repositorios son forks de proyectos de otros autores. Los comparto con su procedencia; las funcionalidades descritas corresponden al código disponible en cada repositorio.
-
-- **[Panda Bobba · Proyect_Spring](https://github.com/luisteransaucedo18-coder/Proyect_Spring)** — derivado de [Kenzowo-dev/Proyect_Spring](https://github.com/Kenzowo-dev/Proyect_Spring). Aplicación de catálogo y gestión de productos con Java, Spring Boot, Spring Data JPA, Spring Security, Thymeleaf y SQL Server. Incluye APIs REST, validación, actualización de precios y pruebas de integración con H2.
-- **[Smart Negotiation Hub](https://github.com/luisteransaucedo18-coder/smart-negotiation-hub)** — derivado de [carranzapacheco/smart-negotiation-hub](https://github.com/carranzapacheco/smart-negotiation-hub). Proyecto móvil y web con React Native, Expo, TypeScript y Firebase; contiene flujos de pasajero y conductor, solicitudes de viaje, ofertas, mapas, mensajes y valoraciones. Algunas funciones se presentan como simulaciones.
-
-</details>
-
 ## Capacidades reflejadas en mis proyectos
 
 | Enfoque | Evidencia en los repositorios |
