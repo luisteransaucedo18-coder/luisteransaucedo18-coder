@@ -1,6 +1,6 @@
 <!-- Recursos locales: subir también la carpeta assets al repositorio de perfil. -->
 <p align="center">
-  <img src="" alt="Luis Teran Saucedo | Full Stack Developer y QA Testing" width="100%" />
+  <img src="https://raw.githubusercontent.com/luisteransaucedo18-coder/luisteransaucedo18-coder/628e9c5759aeeb756b42a7860cc1fe69f41720df/header.svg" alt="Luis Teran Saucedo | Full Stack Developer y QA Testing" width="100%" />
 </p>
 
 <h1 align="center">Hola, soy Luis Teran Saucedo</h1>
@@ -16,7 +16,7 @@
 
 <p align="center"><a href="#sobre-mí">Sobre mí</a> · <a href="#proyectos-destacados">Proyectos</a> · <a href="#otros-proyectos">Más proyectos</a> · <a href="#tecnologías-y-herramientas">Tecnologías</a> · <a href="#experiencia">Experiencia</a> · <a href="#contacto">Contacto</a></p>
 
-<img src="./assets/divider.svg" alt="" width="100%" />
+<img src="https://raw.githubusercontent.com/luisteransaucedo18-coder/luisteransaucedo18-coder/c516a6ffa4b1518edcc14f714d6893f16d3d7355/divider.svg" alt="" width="100%" />
 
 ## Sobre mí
 
@@ -164,4 +164,4 @@ IX ciclo · Tercio superior
 
 **[Portafolio](https://portafolioluisteran.vercel.app)** · **[LinkedIn](https://www.linkedin.com/in/teran-saucedo-luis-armando-91933136b)** · **[luisteransaucedo18@gmail.com](mailto:luisteransaucedo18@gmail.com)**
 
-<p align="center"><img src="./assets/footer.svg" alt="Construir. Validar. Mejorar." width="100%" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/luisteransaucedo18-coder/luisteransaucedo18-coder/c516a6ffa4b1518edcc14f714d6893f16d3d7355/footer.svg" alt="Construir. Validar. Mejorar." width="100%" /></p>
