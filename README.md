@@ -122,24 +122,6 @@ Realicé pruebas funcionales y validación de APIs con Postman. Documenté y di 
 
 </details>
 
-## Formación
-
-**Universidad Tecnológica del Perú** · Ingeniería de Sistemas e Informática  
-IX ciclo · Tercio superior
-
-<details>
-<summary><strong>Certificaciones y formación complementaria</strong></summary>
-
-- Introduction to Generative AI · Google Cloud, 2026.
-- Introducción a la Ciberseguridad · Cisco Networking Academy, 2025.
-- Seguridad de Terminales · Cisco Networking Academy, 2025.
-- Redes y Seguridad · Universidad Tecnológica del Perú, 2025.
-- Inteligencia Artificial para decisiones empresariales · Universidad de Palermo.
-- Inglés básico · ICE School, 2023.
-- Diseño Gráfico · Integra Tec, 2019.
-
-</details>
-
 ## Contacto
 
 ¿Quieres conversar sobre desarrollo web, calidad de software o un proyecto en equipo?
