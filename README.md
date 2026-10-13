@@ -1,6 +1,6 @@
 <!-- Recursos locales: subir también la carpeta assets al repositorio de perfil. -->
 <p align="center">
-  <img src="./assets/header.svg" alt="Luis Teran Saucedo | Full Stack Developer y QA Testing" width="100%" />
+  <img src="" alt="Luis Teran Saucedo | Full Stack Developer y QA Testing" width="100%" />
 </p>
 
 <h1 align="center">Hola, soy Luis Teran Saucedo</h1>
